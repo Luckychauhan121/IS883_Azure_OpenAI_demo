@@ -1,4 +1,6 @@
 # azure.py
+pip install streamlit nltk pandas faiss-cpu openai langchain pypdf
+
 # Import necessary libraries
 import streamlit as st
 import openai
